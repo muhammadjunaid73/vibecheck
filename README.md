@@ -1,3 +1,3 @@
  Vibe Checking Machine
 
- ## A bASIC JS App
+ ## A Basic JS App
